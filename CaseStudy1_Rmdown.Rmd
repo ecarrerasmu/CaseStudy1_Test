@@ -2,7 +2,7 @@
 title: "CaseStudy1_Rmd"
 author: "Austin Hancock - Ernesto Carrera - Matthew Przybyl"
 date: "7/9/2017"
-output: html_document
+output: md_document
  
 ---
 
